@@ -1,5 +1,2 @@
-while True:
-    if input("\033[31mYashil\n\033[0mBu qizil yoki yashil >>>") == "Yashil":
-        print("Xato")
-    else:
-        continue
+_ = [[[[[[[1,23]]]]]]]
+print(type(_))
